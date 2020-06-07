@@ -1,0 +1,6 @@
+node_modules
+public
+.deployment
+.vscode
+package-lock.json
+*.log
